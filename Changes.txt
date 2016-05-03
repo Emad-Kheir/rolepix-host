@@ -1,0 +1,36 @@
+When the browser is resized, the text seems to be off center... can you make it center? http://prntscr.com/azglc4    DONE!
+
+Update the footer on the pages to how i described on skype   DONE!
+
+On the portfolio page change the four things to
+Website design / User Interface & Exp / Illustration / Identity & Branding       DONE!
+Please find suitable icons for them
+
+Recolour http://prntscr.com/azgmmx to #00B4A6 making it look like this: http://prntscr.com/azips0 the dark grey colour is: #404040
+but make sure you use updated icons from the above change ^^      DONE!
+
+Change the footer colour to #404040, keep the texture that it has     DONE!
+
+When resizing the page with all the pictures, the hover text seems off center http://prntscr.com/azgn0d
+Also change the hover colour #00B4A6 with same opacity                DONE!
+
+Increase the size of the header to around 360px height so you can include two buttons as shown here: http://prntscr.com/azguz2
+"Back to portfolio" and "Request a quote". Obviously make it look nicer with proper icons and layout.
+These buttons should be on every page.
+Homepage: "View work" and "Request a quote"
+Portfolio (with four filters): "Our services" and "Request a quote"
+Portfolio (with the filter): "Back to portfolio" and "Request a quote"                                                                                        DONE!
+Portfolio (when you clicked on a design): "Back to web design (or whatever the filter was)" and "Request a quote"
+Our Services: "View work" and "Request a quote"
+Request a quote: "View work" and "Our services"
+Contact: "View work" and "Request a quote"
+
+On the portfolio page change the four things to
+Website design / User Interface & Exp / Illustration / Identity & Branding     DONE!
+Please find suitable icons for them
+
+Fix the responsiveness of this: http://prntscr.com/azjytm    DONE!
+
+When you rescale the browser size, the shape of this becomes an oval http://prntscr.com/azlg2d can you keep it as a circle shape        DONE!
+
+Add a nice javascript effect of the four filters when the page loads   DONE!
